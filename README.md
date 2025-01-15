@@ -2,6 +2,8 @@
 
 Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar conjuntos de quatro cartas de animais iguais.
 
+> **Aviso:** Este jogo está em fase de teste. Feedbacks e sugestões são bem-vindos.
+
 ## Estrutura do Projeto
 
 ### Arquivos
@@ -31,7 +33,7 @@ Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar co
    pip install -r requirements.txt
    ```
 
-## Como Jogar
+## Como Abrir o Jogo
 
 1. Execute o arquivo `Leilao/main.py` para iniciar o jogo:
    ```sh
@@ -39,7 +41,7 @@ Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar co
    ```
 2. Siga as instruções na interface gráfica para participar dos leilões e trocas.
 
-## Regras do Jogo
+## Como Jogar
 
 - Objetivo do Jogo: Colete o maior número de conjuntos de quatro animais iguais para ganhar pontos. O jogador com mais pontos no final vence.
 
