@@ -37,7 +37,7 @@ Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar co
 
 1. Execute o arquivo `Leilao/main.py` para iniciar o jogo:
    ```sh
-   python Leilao/main.py
+   python leilao/main.py
    ```
 2. Siga as instruções na interface gráfica para participar dos leilões e trocas.
 
