@@ -120,7 +120,7 @@ class Auction:
 
                             if (
                                 desist_cont
-                                >= (len(players_order) - 1) & desist_lock
+                                >= (len(self.players) - 1) & desist_lock
                                 == False
                             ):
                                 bidding = False
@@ -132,11 +132,14 @@ class Auction:
                             ):
                                 desist_lock = False
                                 break
-
+                            else:
+                                continue
+                            
                         if bid > winner_bid:
                             winner_bid = bid
                             winner = player
                             valid_bid = True
+                            desist_lock = False
                             QMessageBox.information(
                                 None,
                                 "Lance",
