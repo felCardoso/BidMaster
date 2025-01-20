@@ -67,4 +67,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Contato
 
-Caso queira ajudar o projeto com alguma ideia, sinta-se à vontade para fazer um pull request ou entre em contato pelo e-mail [pcardoso.felipe@gmail.com](mailto:pcardoso.felipe@gmail.com).
+Caso queira ajudar o projeto com alguma ideia, sinta-se à vontade para fazer um pull request ou entre em contato pelo e-mail [fel.cardoso@outlook.com](mailto:fel.cardoso@outlook.com).
