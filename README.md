@@ -10,19 +10,19 @@ Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar co
 
 - `actions.py`: Contém as classes e funções relacionadas às ações do jogo, como leilões e confrontos.
 - `deck.py`: Define as classes `Card` e `Deck`, que representam as cartas e o baralho do jogo.
-- `main.py`: Ponto de entrada do jogo.
+- `game.py`: Ponto de entrada do jogo.
 - `player.py`: Define a classe `Player`, que representa os jogadores do jogo.
 
 ## Requisitos
 
-- Python 3.12
+- Python 3.9+
 - PyQt5
 
 ## Instalação
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/felCardoso/leilao.git
+   git clone https://github.com/felCardoso/BidMaster.git
    ```
 2. Navegue até o diretório do projeto:
    ```sh
@@ -35,9 +35,9 @@ Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar co
 
 ## Como Abrir o Jogo
 
-1. Execute o arquivo `Leilao/main.py` para iniciar o jogo:
+1. Execute o arquivo `BidMaster/main.py` para iniciar o jogo:
    ```sh
-   python leilao/main.py
+   python BidMaster/main.py
    ```
 2. Siga as instruções na interface gráfica para participar dos leilões e trocas.
 
