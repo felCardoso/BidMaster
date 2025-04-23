@@ -1,4 +1,4 @@
-# Leilão de Animais
+# BidMaster
 
 Este é um jogo de cartas de leilão e blefe onde os jogadores tentam coletar conjuntos de quatro cartas de animais iguais.
 
